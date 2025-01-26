@@ -13,7 +13,7 @@ body {
   }
   
   #logo-img {
-    background: url('/Images/restaurant-logo_large.png') no-repeat;
+    background: url('https://dado55.github.io/Module5_Solution/images/restaurant-logo_large.png') no-repeat;
     width: 150px;
     height: 150px;
     margin: 10px 15px 10px 0;
@@ -150,12 +150,12 @@ body {
 
 
 #menu-tile{
-  background: url('/Images/menu-tile.jpg') no-repeat;
+  background: url('https://dado55.github.io/Module5_Solution/images/menu-tile.jpg') no-repeat;
   background-position: center;
 }
 
 #specials-tile{
-  background: url('/Images/specials-tile.jpg') no-repeat;
+  background: url('https://dado55.github.io/Module5_Solution/images/specials-tile.jpg') no-repeat;
   background-position: center;
 }
 
@@ -283,7 +283,7 @@ margin: 0 0 10px;
   @media( min-width:992px) and (max-width:1199px){
 
     #logo-img {
-        background: url('/Images/restaurant-logo_medium.png') no-repeat;
+        background: url('https://dado55.github.io/Module5_Solution/images/restaurant-logo_medium.png') no-repeat;
         width: 100px;
         height: 100px;                                                                  
         margin: 5px 5px 5px 0;
@@ -291,7 +291,7 @@ margin: 0 0 10px;
 
        /* Home Page*/
     .container .jumbotron{
-       background: url('/Images/jumbotron_992.jpg') no-repeat; 
+       background: url('https://dado55.github.io/Module5_Solution/images/jumbotron_992.jpg') no-repeat; 
       height: 558px;
      
     }
@@ -305,7 +305,7 @@ margin: 0 0 10px;
 
     /* Home Page*/
     .container .jumbotron{
-      background: url('/Images/jumbotron_768.jpg') no-repeat;
+      background: url('https://dado55.github.io/Module5_Solution/images/jumbotron_768.jpg') no-repeat;
       height: 432px;
       
     }
